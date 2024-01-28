@@ -9,10 +9,4 @@ You don't have to type or copy the briefs, you can do 3 clicks and boom!
 Make sure to have python installed and have on PATH.exe enabled when you install it,
 and run cmd as admin and type "py -m pip install pyautogui" and "py -m pip install keyboard" in order to work!
 
-## RULES
-
-You can download the auto briefer and customize it but __**YOU CANNOT**__ resell it or say that is yours,
-in order to resell it __**YOU MUST GET PERMISSION FROM THE CREATOR AND PUT CREDITS. IF CAUGHT RESELLING WITHOUT PERMISSION OR NOT PUT CREDITS YOU WILL GET DMCAed AND TAKEN DOWN**__.
-
-If you do not agree please close it and delete the auto briefer.
-Once you run the auto briefer you agree to the rules.
+Copyright(C) 2024
