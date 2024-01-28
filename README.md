@@ -12,5 +12,6 @@ Make sure to have python installed and have on PATH.exe enabled when you install
 click "Code" and download ZIP.
 and run cmd as admin and type "py -m pip install pyautogui" and "py -m pip install keyboard" in order to work!
 
+Pl
 
 Copyright(C) 2024
