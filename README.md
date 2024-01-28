@@ -1,4 +1,4 @@
-# This project is [MIT LICENSED]()
+# This project is [MIT LICENSED](https://github.com/BestGithubUser1/auto_briefer/blob/main/LICENSE)
 
 # The auto briefer!
 
