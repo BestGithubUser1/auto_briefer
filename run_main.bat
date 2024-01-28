@@ -1,5 +1,5 @@
 @echo off
 
-"Path where your Python exe is stored\python.exe" "Path where your Python script is stored\main.py"
+python "Path where your Python script is stored\main.py"
 
 pause
