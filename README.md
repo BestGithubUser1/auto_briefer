@@ -16,7 +16,7 @@ and run cmd as admin and type: \
 ```py -m pip install pyautogui``` \
 ```py -m pip install keyboard``` \
 in order to work! \
-Also make sure you have Windows 10 Pro+.
+Also make sure you have Windows 10 Pro.
 
 Copyright© 2024 Freebobux - ChrisPapadopulos
 
